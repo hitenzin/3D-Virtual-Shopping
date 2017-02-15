@@ -1,7 +1,6 @@
 # 3D-Virtual-Shopping
 Build a 3D virtual store that can give more realistic shopping experience compared to traditional Amazon/Ebay static picture based shopping. The project was done in WebGL and THREE.js
 
-<br><h2>3D Virtualstore</h2>
     <p><b><i>Try <a href="https://tenzin15.github.io/virtualstore" target="_blank">Virtualstore</a></b></i></p>
 	  <b>Control Keys</b> (how to move through the store, pick, rotate, products, etc.)<br><br>
 		Pick a prouct: Double click on the product. <br>
