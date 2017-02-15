@@ -19,7 +19,7 @@ Move through the shelves: User arrow keys or right click trackpad and swipe l/r/
 Traditional Online Shopping: Amazon Store
 
 <img src="/images/virtualStore.png" alt="3D Virtualstore" />
-![3D Virtualstore](images/virtualStore.png)
+![3D Virtualstore](./images/virtualStore.png)
 Our Online Shopping: 3D Virtualstore 
 
 ### Credits
