@@ -5,7 +5,9 @@ Build a 3D virtual store that can give more realistic shopping experience compar
 
 ### Technologies
   HTML5
+  
   Javascript
+  
   THREE.js (WebGL)
 
 ### Controls (how to move through the store, pick, rotate, products, etc.)
@@ -15,11 +17,12 @@ Rotate a popped product: Use Left and Right Arrow. May hold ctrl.
 Zoom in/out: Scroll the mouse up/down or swipe trackpad with two fingers.
 Move through the shelves: User arrow keys or right click trackpad and swipe l/r/u/d. 
 
-![Amazon Store](images/amazonStore.png)
 Traditional Online Shopping: Amazon Store
+![Amazon Store](images/amazonStore.png)
 
-![3D Virtualstore](images/virtualStore.png)
+
 Our Online Shopping: 3D Virtualstore 
+![3D Virtualstore](images/virtualStore.png)
 
 ### Credits
 [Tenzin Chhosphel](https://www.linkedin.com/in/tenzin15), Lukas Rascius, Parm Sahadeo, Ni Yao.
