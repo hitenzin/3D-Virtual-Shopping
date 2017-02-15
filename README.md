@@ -15,11 +15,9 @@ Rotate a popped product: Use Left and Right Arrow. May hold ctrl.
 Zoom in/out: Scroll the mouse up/down or swipe trackpad with two fingers.
 Move through the shelves: User arrow keys or right click trackpad and swipe l/r/u/d. 
 
-<img src="/images/amazonStore.png" alt="Amazon Store" />
 ![Amazon Store](images/amazonStore.png)
 Traditional Online Shopping: Amazon Store
 
-<img src="/images/virtualStore.png" alt="3D Virtualstore" />
 ![3D Virtualstore](images/virtualStore.png)
 Our Online Shopping: 3D Virtualstore 
 
